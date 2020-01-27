@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Scout882020</string>
+
+    <!--    Naviagation Bar titles-->
+    <string name="title_navbar_pregame">Before the Match</string>
+    <string name="title_navbar_auto">Autonomous</string>
+    <string name="title_navbar_teleop">Tele-op</string>
+    <string name="title_navbar_endgame">Endgame</string>
+    <string name="title_activity_scouter_main">ScouterMain</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>

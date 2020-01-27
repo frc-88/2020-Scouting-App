@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_pregame"
+        android:icon="@drawable/ic_format_list_numbered"
+        android:title="@string/title_navbar_pregame" />
+
+    <item
+        android:id="@+id/navigation_auto"
+        android:icon="@drawable/ic_code"
+        android:title="@string/title_navbar_auto" />
+
+    <item
+        android:id="@+id/navigation_teleop"
+        android:icon="@drawable/ic_videogame_asset"
+        android:title="@string/title_navbar_teleop" />
+
+    <item
+        android:id="@+id/navigation_endgame"
+        android:icon="@drawable/ic_playlist_add_check"
+        android:title="@string/title_navbar_endgame" />
+</menu>
